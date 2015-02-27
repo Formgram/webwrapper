@@ -10,31 +10,31 @@
 	<string>WebWrapper</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>2B0E80C6-7906-480D-B28D-F5FE74D55FF9</key>
-		<string>ssh://bitbucket.org/nutrislice/webwrapper.git</string>
+		<key>B6C8FA266F7698A542017ADD66A8A00FF7A68F9B</key>
+		<string>https://github.com/t-evans/webwrapper</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>WebWrapper/WebWrapper.xcodeproj/project.xcworkspace</string>
+	<string>WebWrapper/WebWrapper.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>2B0E80C6-7906-480D-B28D-F5FE74D55FF9</key>
+		<key>B6C8FA266F7698A542017ADD66A8A00FF7A68F9B</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://bitbucket.org/nutrislice/webwrapper.git</string>
+	<string>https://github.com/t-evans/webwrapper</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2B0E80C6-7906-480D-B28D-F5FE74D55FF9</string>
+	<string>B6C8FA266F7698A542017ADD66A8A00FF7A68F9B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2B0E80C6-7906-480D-B28D-F5FE74D55FF9</string>
+			<string>B6C8FA266F7698A542017ADD66A8A00FF7A68F9B</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ios</string>
+			<string>webwrapper</string>
 		</dict>
 	</array>
 </dict>

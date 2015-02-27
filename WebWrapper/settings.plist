@@ -43,7 +43,7 @@
 				<key>appPrefId</key>
 				<string>settings_url</string>
 				<key>defaultValue</key>
-				<string>http://myCompany.com/settings/?isRunningInMobileApp=true</string>
+				<string>http://teslamotors.com/?isRunningInMobileApp=true</string>
 			</dict>
 			<key>hideWebviewToolbar</key>
 			<true/>

@@ -46,4 +46,27 @@
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
 
+
+- (BOOL)application:(UIApplication *)application openURL:(NSURL *)url sourceApplication:(NSString *)sourceApplication annotation:(id)annotation
+{
+    NSLog(@"%@",sourceApplication);
+    
+    NSLog(@"%@", url.query);
+    
+    //check calling app
+    if ([sourceApplication isEqualToString:@"com.apple.mobilesafari"])
+    {
+         //use NSURL+Parameters.m and .h are to parse the key1=value1&key2=value2&key3=value3
+         
+         //add your code here
+         
+         return YES;
+    }
+    else
+    {
+         return NO;
+    }
+    
+}
+
 @end

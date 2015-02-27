@@ -481,9 +481,10 @@
 				ORGANIZATIONNAME = Nutrislice;
 				TargetAttributes = {
 					05A30A2F1871FD43002B1C84 = {
-						DevelopmentTeam = 9JSNLA8G7N;
+						DevelopmentTeam = 5FB9KX64JR;
 					};
 					05A30A531871FD43002B1C84 = {
+						DevelopmentTeam = 5FB9KX64JR;
 						TestTargetID = 05A30A2F1871FD43002B1C84;
 					};
 				};
